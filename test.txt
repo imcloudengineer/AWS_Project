@@ -1,1 +1,2 @@
-This is AWS Project
+This is AWS Project.
+This AWS Infrastructure Project.
